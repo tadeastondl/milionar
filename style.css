@@ -1,0 +1,32 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 80px;
+}
+body {
+  background-color: rgb(57, 25, 117);
+  color: rgb(164, 211, 255);
+}
+.xd {
+  text-align: center;
+}
+button {
+  width: 49%;
+  color: rgb(164, 211, 255);
+  background-color: black;
+}
+#nvm {
+  border: 5px solid black;
+  background-color: rgb(15, 2, 37);
+}
+.answer {
+  height: 200px;
+}
+h1 {
+  font-size: 100px;
+}
+#info {
+  font-size: 20px;
+}
